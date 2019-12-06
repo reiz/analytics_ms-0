@@ -11,6 +11,6 @@ public class LogSuperModel {
 
 	public String version;
 	public String timestamp;
-	public String  message;
+	public String message;
 
 }

@@ -13,7 +13,7 @@ public class AnalyticsMsApplication {
 
 	@RequestMapping(value = "/", method = RequestMethod.GET)
 	String home() {
-		return "Hi Mate. This is the root of all evil!;
+		return Hi Mate. This is the root of all evil!;
 	}
 
 	public static void main(String[] args) throws Exception {
